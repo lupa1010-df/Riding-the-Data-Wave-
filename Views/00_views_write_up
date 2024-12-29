@@ -1,0 +1,30 @@
+1. Average Trip Duration by Day of Week
+
+This view helps analysts understand the typical trip duration for each day of the week. By looking at trip durations across different days, analysts can identify patterns such as longer trips during weekends or weekdays and potentially correlate this with user behavior.
+
+Why it's interesting: This provides insights into when trips are shorter or longer and can reveal trends related to weather, time of day, or events affecting usage.
+
+2. Trips by Station Pair (Start -> End)
+
+This view shows the number of trips taken between each pair of stations. It can help identify popular routes, potential congestion points, and the busiest station connections.
+
+Why it's interesting: This provides a heatmap of station pairs, helping analysts understand popular routes, peak station connections, and areas that may need more resources or services.
+
+3. Trip Counts by User Type and Weather Condition
+
+This view combines user type (e.g., Subscriber vs. Customer) with weather conditions to analyze how different types of users behave in various weather conditions. It’s valuable for understanding how weather affects usage patterns among different user groups.
+
+Why it's interesting: Analysts can observe if certain user types, like Subscribers, are more or less likely to bike on rainy or cold days, aiding in targeted marketing or operational planning.
+
+4. Stations with the Most Frequent Users
+
+This view lists stations with the most frequent users based on the number of trips taken to or from each station. It helps identify stations with high user engagement, which might need more infrastructure or services.
+
+Why it's interesting: Identifying the stations with the highest number of unique users can help improve station maintenance, deployment of bikes, or even lead to identifying areas for new station installations.
+
+5. Weather Impact on Trip Duration
+
+This view links weather data (temperature and wind speed) with trip durations to understand how environmental factors influence trip times. Analysts can use this to predict changes in trip durations based on weather forecasts.
+
+Why it's interesting: This view helps analysts understand how weather conditions like temperature and wind speed affect trip duration, potentially guiding operational decisions like adjusting bike availability or services during adverse weather.
+
