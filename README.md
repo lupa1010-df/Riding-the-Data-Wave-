@@ -113,9 +113,16 @@ The database follows a normalized schema design with the following tables:
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## 🤝 Feedback and Contributions
 
-## Contact
-Your Name - [Your Email]
+Pull requests are welcome.  Feedback and suggestions for improving the database structure are especially welcome. Feel free to create an issue for:
+- Suggestions for optimizing the table structure
+- Ideas for additional attributes
+- Improvements to the relationships between tables
+
+## 📞 Contact
+Paul Bacher
+- Email: paulbacher@hotmail.com
+- GitHub: lupa1010-df
+
 Project Link: [https://github.com/yourusername/riding-the-data-wave]
